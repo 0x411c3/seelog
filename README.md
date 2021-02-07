@@ -1,6 +1,6 @@
 # Seelog
 
-Seelog is a Log analyzer.
+Log analyzer.
 
 ## Instalação.
 
